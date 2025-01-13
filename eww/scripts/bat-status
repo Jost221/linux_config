@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Получаем состояние батареи
+state=$(upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep state | awk '{print $2}')
+
+# Проверяем состояние и выводим истину или ложь
+if [[ "$state" == "discharging" ]]; then
+    echo false
+else
+    echo true
+fi
