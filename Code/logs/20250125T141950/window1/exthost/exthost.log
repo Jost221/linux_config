@@ -1,0 +1,25 @@
+2025-01-25 14:19:54.181 [info] Extension host with pid 27099 started
+2025-01-25 14:19:54.181 [info] Skipping acquiring lock for /home/jost/.config/Code/User/workspaceStorage/90cd6ade2e199fa99d1437ba8d45d7e0.
+2025-01-25 14:19:55.028 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-25 14:19:55.110 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-25 14:19:55.594 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-25 14:19:55.604 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-01-25 14:19:55.609 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-01-25 14:19:55.684 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2025-01-25 14:19:56.108 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-25 14:19:56.360 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-25 14:19:56.799 [info] Eager extensions activated
+2025-01-25 14:19:56.921 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:56.933 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:56.997 [info] ExtensionService#_doActivateExtension circlecodesolution.ccs-flutter-color, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:57.003 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:57.129 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:57.193 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:57.250 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:57.263 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-01-25 14:19:57.949 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-25 14:20:01.196 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-25 14:20:01.223 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-25 14:20:01.348 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-25 14:24:35.956 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-25 14:24:36.016 [info] Extension host with pid 27099 exiting with code 0

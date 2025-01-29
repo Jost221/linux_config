@@ -1,0 +1,6 @@
+2025/01/14-23:55:27.557 a3a Creating DB /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_matrixcalc.org_0.indexeddb.leveldb since it was missing.
+2025/01/14-23:55:27.561 a3a Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_matrixcalc.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/14-23:55:29.807 a3a Level-0 table #5: started
+2025/01/14-23:55:29.809 a3a Level-0 table #5: 844 bytes OK
+2025/01/14-23:55:29.812 a3a Delete type=0 #3
+2025/01/14-23:55:29.813 a3a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

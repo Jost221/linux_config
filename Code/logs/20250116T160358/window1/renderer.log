@@ -1,0 +1,17 @@
+2025-01-16 16:03:59.963 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-16 16:03:59.964 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-16 16:03:59.964 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-16 16:04:00.799 [info] Started local extension host with pid 10214.
+2025-01-16 16:04:02.640 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-16 16:04:03.729 [info] [perf] Render performance baseline is 113ms
+2025-01-16 20:37:06.610 [error] Cancelled: Error: Cancelled
+	at i (/opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js:1:232913)
+	at async a.GitHubServer.login (/opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js:1:233476)
+	at async a.GitHubAuthenticationProvider.createSession (/opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js:1:228761)
+	at async pw.$createSession (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:3467)
+2025-01-16 20:38:09.607 [info] Settings Sync: Updated current session f2cb2b739cc0b2b3
+2025-01-16 20:38:09.638 [info] Settings Sync: Token updated for the account Jost221
+2025-01-16 20:38:09.667 [info] Settings Sync: Account status changed from unavailable to available
+2025-01-16 20:38:44.063 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-16 20:38:44.116 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-01-16 20:38:44.119 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

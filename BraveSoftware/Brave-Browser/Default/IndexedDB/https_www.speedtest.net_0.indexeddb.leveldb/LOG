@@ -1,0 +1,18 @@
+2025/01/18-21:59:47.981 6c91 Creating DB /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb since it was missing.
+2025/01/18-21:59:47.988 6c91 Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/18-21:59:48.014 6c92 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/18-21:59:48.033 6c93 Level-0 table #5: started
+2025/01/18-21:59:48.035 6c93 Level-0 table #5: 4718 bytes OK
+2025/01/18-21:59:48.036 6c93 Delete type=0 #3
+2025/01/18-21:59:48.036 6c93 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/18-21:59:48.045 6c91 Level-0 table #7: started
+2025/01/18-21:59:48.047 6c91 Level-0 table #7: 2272 bytes OK
+2025/01/18-21:59:48.048 6c91 Delete type=0 #4
+2025/01/18-21:59:48.048 6c91 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/18-21:59:48.048 6c92 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 496 : 0
+2025/01/18-21:59:48.048 6c92 Compacting 1@1 + 1@2 files
+2025/01/18-21:59:48.050 6c92 Generated table #8@1: 6 keys, 267 bytes
+2025/01/18-21:59:48.050 6c92 Compacted 1@1 + 1@2 files => 267 bytes
+2025/01/18-21:59:48.051 6c92 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/18-21:59:48.052 6c92 Delete type=2 #7
+2025/01/18-21:59:48.053 6c91 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x18\x00u\x00s\x00e\x00r\x00_\x00U\x00n\x00i\x00v\x00S\x00p\x00e\x00e\x00d\x00T\x00e\x00s\x00t\x00R\x00e\x00s\x00u\x00l\x00t' @ 496 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

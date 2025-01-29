@@ -1,0 +1,33 @@
+2025/01/27-00:01:56.232 4c84 Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_next.music.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/27-00:01:56.232 4c84 Recovering log #20
+2025/01/27-00:01:56.342 4c84 Reusing old log /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_next.music.yandex.ru_0.indexeddb.leveldb/000020.log 
+2025/01/27-00:21:58.933 4c84 Level-0 table #25: started
+2025/01/27-00:21:58.975 4c84 Level-0 table #25: 1184441 bytes OK
+2025/01/27-00:21:58.977 4c84 Delete type=0 #20
+2025/01/27-00:23:29.709 4c86 Compacting 1@1 + 1@2 files
+2025/01/27-00:23:29.742 4c86 Generated table #26@1: 9147 keys, 201311 bytes
+2025/01/27-00:23:29.742 4c86 Compacted 1@1 + 1@2 files => 201311 bytes
+2025/01/27-00:23:29.743 4c86 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/27-00:23:29.743 4c86 Delete type=2 #25
+2025/01/27-00:23:29.744 4c86 Delete type=2 #22
+2025/01/27-03:54:23.826 4cbb Level-0 table #28: started
+2025/01/27-03:54:23.876 4cbb Level-0 table #28: 1167183 bytes OK
+2025/01/27-03:54:23.880 4cbb Delete type=0 #24
+2025/01/27-03:56:24.848 4c84 Compacting 1@1 + 1@2 files
+2025/01/27-03:56:24.880 4c84 Generated table #29@1: 10460 keys, 230484 bytes
+2025/01/27-03:56:24.880 4c84 Compacted 1@1 + 1@2 files => 230484 bytes
+2025/01/27-03:56:24.881 4c84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/27-03:56:24.881 4c84 Delete type=2 #26
+2025/01/27-03:56:24.881 4c84 Delete type=2 #28
+2025/01/27-09:11:46.715 4c84 Level-0 table #31: started
+2025/01/27-09:11:46.723 4c84 Level-0 table #31: 157373 bytes OK
+2025/01/27-09:11:46.726 4c84 Delete type=0 #27
+2025/01/27-09:11:46.727 4c84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/27-09:11:46.727 4c84 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x01\x08\x009\x001\x000\x003\x003\x000\x001\x003\x00\x03\x00\x00\x00\x00\x80]\xc3@' @ 325704 : 1
+2025/01/27-09:11:46.727 4c84 Compacting 1@1 + 1@2 files
+2025/01/27-09:11:46.751 4c84 Generated table #32@1: 10639 keys, 234271 bytes
+2025/01/27-09:11:46.752 4c84 Compacted 1@1 + 1@2 files => 234271 bytes
+2025/01/27-09:11:46.753 4c84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/27-09:11:46.753 4c84 Delete type=2 #29
+2025/01/27-09:11:46.754 4c84 Delete type=2 #31
+2025/01/27-09:11:46.755 4c84 Manual compaction at level-1 from '\x00\x01\x01 \x01\x08\x009\x001\x000\x003\x003\x000\x001\x003\x00\x03\x00\x00\x00\x00\x80]\xc3@' @ 325704 : 1 .. (end); will stop at (end)

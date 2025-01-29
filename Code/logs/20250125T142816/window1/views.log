@@ -1,0 +1,14 @@
+2025-01-25 14:28:17.612 [info] Added views:outline in workbench.view.explorer
+2025-01-25 14:28:17.612 [info] Added views:workbench.view.search in workbench.view.search
+2025-01-25 14:28:17.612 [info] Added views:workbench.scm in workbench.view.scm
+2025-01-25 14:28:17.612 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-01-25 14:28:17.612 [info] Added views:terminal in terminal
+2025-01-25 14:28:17.612 [info] Added views:workbench.panel.markers.view in workbench.views.service.panel.4eaacb80-e7d7-4ed3-82d7-96f399790b7b
+2025-01-25 14:28:17.612 [info] Added views:timeline in workbench.view.explorer
+2025-01-25 14:28:17.612 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-01-25 14:28:19.768 [info] Added views:workbench.debug.variablesView,workbench.debug.watchExpressionsView,workbench.debug.callStackView,workbench.debug.breakPointsView in workbench.view.debug
+2025-01-25 14:28:20.106 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-01-25 14:28:20.106 [info] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
+2025-01-25 14:28:20.108 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-01-25 14:28:20.373 [info] Added views:~remote.forwardedPorts in workbench.views.service.panel.8274da26-aabd-40e2-b4f1-b270bcd06477
+2025-01-25 14:28:23.890 [info] Added views:vscode-serial-monitor.monitor0 in workbench.view.extension.vscode-serial-monitor-tools

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# Получаем результат команды и сохраняем в переменной
+mute_status=$(pactl get-sink-mute @DEFAULT_SINK@ | awk '{print $2}')
+
+# Сравниваем результат с "yes"
+if [ "$mute_status" = "yes" ]; then
+    echo "./image/no internet.png"  # Возвращаем 1, если звук выключен
+else
+    echo "./image/no internet.png"  # Возвращаем 0, если звук включен
+fi

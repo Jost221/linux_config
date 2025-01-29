@@ -1,0 +1,60 @@
+2025-01-27 00:26:20.039 [info] Extension host with pid 27013 started
+2025-01-27 00:26:20.039 [info] Skipping acquiring lock for /home/jost/.config/Code/User/workspaceStorage/14c1f9393ea75b3201c98b67797acc45.
+2025-01-27 00:26:20.846 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-27 00:26:20.946 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-27 00:26:21.661 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-27 00:26:21.668 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-01-27 00:26:21.673 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-01-27 00:26:21.823 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2025-01-27 00:26:21.997 [info] ExtensionService#_doActivateExtension circlecodesolution.ccs-flutter-color, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:22.010 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:22.114 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:22.206 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:22.238 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:22.789 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-27 00:26:22.989 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-27 00:26:23.450 [info] Eager extensions activated
+2025-01-27 00:26:23.561 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:23.565 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:23.610 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 00:26:23.963 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 00:26:23.997 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 00:26:24.162 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 00:26:24.281 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-27 00:26:27.562 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp', root cause: franneck94.c-cpp-runner
+2025-01-27 00:26:28.558 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+2025-01-27 00:36:35.239 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-01-27 00:36:51.702 [info] ExtensionService#_doActivateExtension danielpinto8zz6.c-cpp-compile-run, startup: false, activationEvent: 'onCommand:extension.CompileRun'
+2025-01-27 09:11:48.108 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-27 09:11:48.361 [error] Canceled: Canceled
+    at new IT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at setContextValue (/home/jost/.vscode/extensions/franneck94.c-cpp-runner-9.4.9/dist/webpack:/c-cpp-runner/src/utils/vscodeUtils.ts:26:26)
+    at Object.deactivate (/home/jost/.vscode/extensions/franneck94.c-cpp-runner-9.4.9/dist/webpack:/c-cpp-runner/src/extension.ts:142:18)
+    at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11724)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-27 09:11:48.385 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at D.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:285192)
+    at D.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:284925)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:503028)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-27 09:11:48.397 [info] Extension host with pid 27013 exiting with code 0

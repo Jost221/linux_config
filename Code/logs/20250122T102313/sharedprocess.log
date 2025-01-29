@@ -1,0 +1,8 @@
+2025-01-22 10:23:55.953 [error] [network] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:23:58.199 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:23:58.609 [error] [network] #3: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:24:38.501 [error] [network] #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:24:38.506 [error] [network] #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:24:39.781 [error] [network] #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-22 10:24:40.985 [error] [network] #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-22 10:24:42.268 [error] [network] #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

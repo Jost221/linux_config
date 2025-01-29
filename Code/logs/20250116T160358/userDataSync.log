@@ -1,0 +1,352 @@
+2025-01-16 16:04:01.544 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-16 16:04:01.544 [info] Auto Sync is disabled.
+2025-01-16 20:38:09.684 [info] Sync started.
+2025-01-16 20:38:11.750 [info] Did reset the local sync state.
+2025-01-16 20:38:11.776 [info] Settings: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:11.778 [info] Settings: Last sync data state does not exist.
+2025-01-16 20:38:12.014 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:12.015 [info] GlobalState: Last sync data state does not exist.
+2025-01-16 20:38:12.135 [info] Settings: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:12.136 [info] Settings: Last sync data state does not exist.
+2025-01-16 20:38:12.722 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:12.722 [info] Keybindings: Last sync data state does not exist.
+2025-01-16 20:38:13.124 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:13.127 [info] Snippets: Last sync data state does not exist.
+2025-01-16 20:38:13.504 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:13.506 [info] Tasks: Last sync data state does not exist.
+2025-01-16 20:38:13.908 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:13.910 [info] GlobalState: Last sync data state does not exist.
+2025-01-16 20:38:14.751 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:14.751 [info] Extensions: Last sync data state does not exist.
+2025-01-16 20:38:15.200 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:15.200 [info] Profiles: Last sync data state does not exist.
+2025-01-16 20:38:15.587 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:15.588 [info] Profiles: Last sync data state does not exist.
+2025-01-16 20:38:15.668 [info] Settings: Updated local settings
+2025-01-16 20:38:15.674 [info] Settings: Updated last synchronized settings
+2025-01-16 20:38:15.676 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 20:38:15.680 [info] Keybindings: Updated last synchronized keybindings
+2025-01-16 20:38:15.681 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 20:38:15.684 [info] Snippets: Updated last synchronized snippets
+2025-01-16 20:38:15.684 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 20:38:15.689 [info] Tasks: Updated last synchronized tasks
+2025-01-16 20:38:15.702 [info] GlobalState: Updated locale.
+2025-01-16 20:38:15.702 [info] GlobalState: Updated locale
+2025-01-16 20:38:15.703 [info] GlobalState: Updated global state ["workbench.view.extension.tabnine.state.hidden","workbench.view.extension.test.state.hidden","ces/skipSurvey","workbench.statusbar.hidden","workbench.welcomePage.walkthroughMetadata","editor.contrib.largeFileOptimizationsWarner","views.customizations","workbench.views.service.panel.8274da26-aabd-40e2-b4f1-b270bcd06477.state.hidden","file.particpants.additionalEdits","workbench.view.extension.dockerView.state.hidden","workbench.view.extension.github-cweijan-mysql.state.hidden","workbench.view.extension.github-cweijan-nosql.state.hidden","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensInspect.state.hidden","workbench.view.extension.gitlensPanel.state.hidden","workbench.view.extension.makefile__viewContainer.state.hidden","workbench.view.remote.state.hidden","snippets.usageTimestamps","terminal.integrated.showTerminalConfigPrompt","Comments.hidden","commandPalette.mru.cache","commandPalette.mru.counter","workbench.views.service.panel.4eaacb80-e7d7-4ed3-82d7-96f399790b7b.state.hidden","extensionsAssistant/deprecated","workbench.view.extension.dataworkspace.state.hidden","workbench.view.extension.objectExplorer.state.hidden","fileBasedRecommendations/promptedRecommendations","cpp.1.editedCount","cpp.1.editedDate","expandSuggestionDocs","extensions.donotAutoUpdate","javascript.1.editedCount","javascript.1.editedDate","nps/isCandidate","workbench.chat.hideMovedChatWelcomeView","workbench.view.extension.vscode-serial-monitor-tools.state.hidden","terminal.hidden","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","workbench.panel.pinnedPanels","workbench.view.debug.state.hidden","nps/lastSessionDate","nps/sessionCount","memento/gettingStartedService","colorThemeData","github-Jost221","cpp.1.lastSessionDate","cpp.1.sessionCount","csharp.1.lastSessionDate","csharp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","workbench.auxiliarybar.pinnedPanels"]
+2025-01-16 20:38:15.703 [info] GlobalState: Updated local ui state
+2025-01-16 20:38:15.707 [info] GlobalState: Updated last synchronized ui state
+2025-01-16 20:38:16.378 [info] Extensions: Disabled extension tabnine.tabnine-vscode 3.224.0
+2025-01-16 20:38:16.650 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:16.650 [info] Extensions: Last sync data state does not exist.
+2025-01-16 20:38:43.935 [info] Extensions: Installed extension. 1yib.rust-bundle 1.0.0
+2025-01-16 20:38:43.935 [info] Extensions: Installed extension. ms-vscode.cpptools-extension-pack 1.3.0
+2025-01-16 20:38:43.935 [info] Extensions: Installed extension. fill-labs.dependi 0.7.13
+2025-01-16 20:38:43.936 [info] Extensions: Installed extension. vadimcn.vscode-lldb 1.11.1
+2025-01-16 20:38:43.936 [info] Extensions: Installed extension. wholroyd.jinja 0.0.8
+2025-01-16 20:38:43.936 [info] Extensions: Installed extension. danielpinto8zz6.c-cpp-compile-run 1.0.60
+2025-01-16 20:38:43.936 [info] Extensions: Installed extension. github.github-vscode-theme 6.3.5
+2025-01-16 20:38:43.936 [info] Extensions: Installed extension. amodio.tsl-problem-matcher 0.6.2
+2025-01-16 20:38:43.936 [info] Extensions: Installed extension. moozzyk.arduino 0.0.4
+2025-01-16 20:38:43.937 [info] Extensions: Installed extension. dustypomerleau.rust-syntax 0.6.1
+2025-01-16 20:38:43.937 [info] Extensions: Installed extension. dbaeumer.vscode-eslint 3.0.10
+2025-01-16 20:38:43.937 [info] Extensions: Installed extension. jeff-hykin.better-cpp-syntax 1.27.1
+2025-01-16 20:38:43.937 [info] Extensions: Installed extension. ms-vscode.extension-test-runner 0.0.12
+2025-01-16 20:38:43.937 [info] Extensions: Installed extension. swellaby.rust-pack 0.3.38
+2025-01-16 20:38:43.937 [info] Extensions: Installed extension. ms-vscode.cpptools-themes 2.0.0
+2025-01-16 20:38:43.938 [info] Extensions: Installed extension. ms-vscode.live-server 0.4.15
+2025-01-16 20:38:43.938 [info] Extensions: Installed extension. circlecodesolution.ccs-flutter-color 2.0.0
+2025-01-16 20:38:43.938 [info] Extensions: Installed extension. ewen-lbh.hyprland 0.1.2
+2025-01-16 20:38:43.938 [info] Extensions: Installed extension. usernamehw.errorlens 3.22.0
+2025-01-16 20:38:43.938 [info] Extensions: Installed extension. fireblast.hyprlang-vscode 0.0.1
+2025-01-16 20:38:43.938 [info] Extensions: Installed extension. formulahendry.auto-rename-tag 0.1.10
+2025-01-16 20:38:43.939 [info] Extensions: Installed extension. formulahendry.auto-close-tag 0.5.15
+2025-01-16 20:38:43.939 [info] Extensions: Installed extension. ms-vscode.hexeditor 1.11.1
+2025-01-16 20:38:43.939 [info] Extensions: Installed extension. tauri-apps.tauri-vscode 0.2.9
+2025-01-16 20:38:43.939 [info] Extensions: Installed extension. lorenzopirro.rust-flash-snippets 3.1.1
+2025-01-16 20:38:43.939 [info] Extensions: Installed extension. samuelcolvin.jinjahtml 0.20.0
+2025-01-16 20:38:43.939 [info] Extensions: Installed extension. lintangwisesa.arduino 0.3.4
+2025-01-16 20:38:43.940 [info] Extensions: Installed extension. christian-kohler.npm-intellisense 1.4.5
+2025-01-16 20:38:43.940 [info] Extensions: Installed extension. redhat.vscode-yaml 1.15.0
+2025-01-16 20:38:43.940 [info] Extensions: Installed extension. franneck94.c-cpp-runner 9.4.9
+2025-01-16 20:38:43.941 [info] Extensions: Installed extension. formulahendry.code-runner 0.12.2
+2025-01-16 20:38:43.941 [info] Extensions: Installed extension. ronaldosena.arduino-snippets 1.0.2
+2025-01-16 20:38:43.941 [info] Extensions: Installed extension. qwtel.sqlite-viewer 0.9.6
+2025-01-16 20:38:43.941 [info] Extensions: Installed extension. eww-yuck.yuck 0.0.3
+2025-01-16 20:38:43.941 [info] Extensions: Installed extension. tabnine.tabnine-vscode 3.224.0
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. tyriar.luna-paint 0.16.0
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. ms-python.autopep8 2024.0.0
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. ms-python.isort 2023.10.1
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. ewen-lbh.vscode-hyprls 0.4.1
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. kamikillerto.vscode-colorize 0.16.0
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. ms-vscode.cmake-tools 1.19.52
+2025-01-16 20:38:43.942 [info] Extensions: Installed extension. ms-vscode.vscode-serial-monitor 0.13.1
+2025-01-16 20:38:43.943 [info] Extensions: Installed extension. pkief.material-icon-theme 5.17.0
+2025-01-16 20:38:43.943 [info] Extensions: Installed extension. twxs.cmake 0.0.17
+2025-01-16 20:38:43.943 [info] Extensions: Installed extension. ms-python.debugpy 2024.14.0
+2025-01-16 20:38:43.943 [info] Extensions: Installed extension. rust-lang.rust-analyzer 0.4.2268
+2025-01-16 20:38:43.943 [info] Extensions: Installed extension. bigmogician.xdml-vscode 0.0.1
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. tamasfe.even-better-toml 0.21.2
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. vscode-arduino.vscode-arduino-community 0.7.2
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. noesistechnologies.noesisgui-tools 0.1.54
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. bianxianyang.htmlplay 0.0.10
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. redhat.vscode-xml 0.27.2
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. ms-python.python 2024.22.2
+2025-01-16 20:38:43.944 [info] Extensions: Installed extension. ms-vscode.cpptools 1.22.11
+2025-01-16 20:38:43.945 [info] Extensions: Installed extension. ms-python.vscode-pylance 2024.12.1
+2025-01-16 20:38:43.964 [info] Extensions: Updated last synchronized extensions.
+2025-01-16 20:38:43.994 [info] Profiles: Created profile 'Untitled'.
+2025-01-16 20:38:44.028 [info] Profiles: Updated last synchronized profiles.
+2025-01-16 20:38:44.076 [info] Syncing profile. Untitled
+2025-01-16 20:38:44.078 [info] Settings (Untitled): Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:44.079 [info] Settings (Untitled): Last sync data state does not exist.
+2025-01-16 20:38:45.289 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 20:38:45.357 [info] Settings (Untitled): Updated last synchronized settings
+2025-01-16 20:38:45.359 [info] Keybindings (Untitled): Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:45.360 [info] Keybindings (Untitled): Last sync data state does not exist.
+2025-01-16 20:38:45.699 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 20:38:45.703 [info] Keybindings (Untitled): Updated last synchronized keybindings
+2025-01-16 20:38:45.706 [info] Snippets (Untitled): Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:45.708 [info] Snippets (Untitled): Last sync data state does not exist.
+2025-01-16 20:38:46.024 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 20:38:46.028 [info] Snippets (Untitled): Updated last synchronized snippets
+2025-01-16 20:38:46.031 [info] Tasks (Untitled): Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:46.032 [info] Tasks (Untitled): Last sync data state does not exist.
+2025-01-16 20:38:46.393 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 20:38:46.404 [info] Tasks (Untitled): Updated last synchronized tasks
+2025-01-16 20:38:46.410 [info] GlobalState (Untitled): Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:46.411 [info] GlobalState (Untitled): Last sync data state does not exist.
+2025-01-16 20:38:46.791 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 20:38:46.795 [info] GlobalState (Untitled): Updated last synchronized ui state
+2025-01-16 20:38:46.800 [info] Extensions (Untitled): Migrating last sync user data. Resource does not exist.
+2025-01-16 20:38:46.801 [info] Extensions (Untitled): Last sync data state does not exist.
+2025-01-16 20:38:47.254 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 20:38:47.269 [info] Extensions (Untitled): Updated last synchronized extensions.
+2025-01-16 20:38:47.272 [info] Sync done. Took 37598ms
+2025-01-16 20:38:47.285 [info] Auto Sync: Triggered by Interval
+2025-01-16 20:38:47.286 [info] Sync started.
+2025-01-16 20:38:48.082 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 20:38:48.090 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 20:38:48.096 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 20:38:48.103 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 20:38:48.111 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 20:38:48.245 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 20:38:48.249 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 20:38:48.251 [info] Syncing profile. Untitled
+2025-01-16 20:38:48.255 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 20:38:48.257 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 20:38:48.260 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 20:38:48.265 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 20:38:48.269 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 20:38:48.302 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 20:38:48.305 [info] Sync done. Took 1021ms
+2025-01-16 20:40:43.844 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:40:43.845 [info] Sync started.
+2025-01-16 20:40:44.247 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 20:40:44.254 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 20:40:44.259 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 20:40:44.263 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 20:40:44.268 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 20:40:44.387 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 20:40:44.389 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 20:40:44.391 [info] Syncing profile. Untitled
+2025-01-16 20:40:44.393 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 20:40:44.396 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 20:40:44.399 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 20:40:44.402 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 20:40:44.412 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 20:40:44.444 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 20:40:44.446 [info] Sync done. Took 608ms
+2025-01-16 20:45:44.447 [info] Auto Sync: Triggered by Interval
+2025-01-16 20:45:44.448 [info] Sync started.
+2025-01-16 20:45:45.067 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 20:45:45.089 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 20:45:45.115 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 20:45:45.125 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 20:45:45.132 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 20:45:45.290 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 20:45:45.293 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 20:45:45.296 [info] Syncing profile. Untitled
+2025-01-16 20:45:45.299 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 20:45:45.305 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 20:45:45.307 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 20:45:45.310 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 20:45:45.311 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 20:45:45.349 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 20:45:45.350 [info] Sync done. Took 904ms
+2025-01-16 20:47:22.983 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:47:22.984 [info] Sync started.
+2025-01-16 20:47:23.094 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 20:47:23.102 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 20:47:23.106 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 20:47:23.111 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 20:47:23.120 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 20:47:23.250 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 20:47:23.251 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 20:47:23.252 [info] Syncing profile. Untitled
+2025-01-16 20:47:23.254 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 20:47:23.257 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 20:47:23.260 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 20:47:23.263 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 20:47:23.265 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 20:47:23.305 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 20:47:23.306 [info] Sync done. Took 326ms
+2025-01-16 20:50:03.952 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:50:03.952 [info] Sync started.
+2025-01-16 20:50:03.955 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-01-16 20:50:03.955 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:50:03.955 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:52:10.775 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:52:10.775 [info] Sync started.
+2025-01-16 20:52:10.777 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-01-16 20:52:10.777 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:52:10.777 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:53:24.553 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:53:24.554 [info] Sync started.
+2025-01-16 20:53:24.560 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-01-16 20:53:24.561 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:53:24.562 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:54:00.718 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:54:00.719 [info] Sync started.
+2025-01-16 20:54:00.724 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-01-16 20:54:00.725 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:54:00.726 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:54:59.933 [info] Auto Sync: Triggered by Activity
+2025-01-16 20:54:59.934 [info] Sync started.
+2025-01-16 20:54:59.943 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-01-16 20:54:59.944 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:54:59.945 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at qh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:22107)
+    at async qh.manifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:19954)
+    at async vu.createSyncTask (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:105:121443)
+    at async vf.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:9288)
+    at async vf.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:112:8932)
+2025-01-16 20:59:59.941 [info] Auto Sync: Triggered by Interval
+2025-01-16 20:59:59.941 [info] Sync started.
+2025-01-16 21:00:00.275 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 21:00:00.290 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 21:00:00.299 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 21:00:00.305 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 21:00:00.312 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 21:00:00.484 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 21:00:00.487 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 21:00:00.490 [info] Syncing profile. Untitled
+2025-01-16 21:00:00.493 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 21:00:00.496 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 21:00:00.502 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 21:00:00.506 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 21:00:00.508 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 21:00:00.546 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 21:00:00.548 [info] Sync done. Took 608ms
+2025-01-16 21:00:45.653 [info] Auto Sync: Triggered by Activity
+2025-01-16 21:00:45.655 [info] Sync started.
+2025-01-16 21:00:45.745 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 21:00:45.751 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 21:00:45.755 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 21:00:45.758 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 21:00:45.763 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 21:00:45.904 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 21:00:45.906 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 21:00:45.909 [info] Syncing profile. Untitled
+2025-01-16 21:00:45.911 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 21:00:45.914 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 21:00:45.918 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 21:00:45.921 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 21:00:45.924 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 21:00:45.972 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 21:00:45.974 [info] Sync done. Took 332ms
+2025-01-16 21:01:22.120 [info] Auto Sync: Triggered by Activity
+2025-01-16 21:01:22.121 [info] Sync started.
+2025-01-16 21:01:22.439 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 21:01:22.452 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 21:01:22.458 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 21:01:22.461 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 21:01:22.466 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 21:01:22.579 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 21:01:22.582 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 21:01:22.585 [info] Syncing profile. Untitled
+2025-01-16 21:01:22.589 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 21:01:22.593 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 21:01:22.596 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 21:01:22.599 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 21:01:22.600 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 21:01:22.636 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 21:01:22.637 [info] Sync done. Took 521ms
+2025-01-16 21:02:10.171 [info] Auto Sync: Triggered by Activity
+2025-01-16 21:02:10.172 [info] Sync started.
+2025-01-16 21:02:10.316 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 21:02:10.329 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 21:02:10.339 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 21:02:10.347 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 21:02:10.360 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 21:02:10.504 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 21:02:10.507 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 21:02:10.508 [info] Syncing profile. Untitled
+2025-01-16 21:02:10.510 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 21:02:10.513 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 21:02:10.516 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 21:02:10.518 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 21:02:10.520 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 21:02:10.552 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 21:02:10.555 [info] Sync done. Took 386ms
+2025-01-16 21:02:34.917 [info] Auto Sync: Triggered by Activity
+2025-01-16 21:02:34.918 [info] Sync started.
+2025-01-16 21:02:35.034 [info] Settings: No changes found during synchronizing settings.
+2025-01-16 21:02:35.040 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-16 21:02:35.043 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-16 21:02:35.046 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-16 21:02:35.050 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-16 21:02:35.132 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-16 21:02:35.133 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-16 21:02:35.135 [info] Syncing profile. Untitled
+2025-01-16 21:02:35.137 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-16 21:02:35.140 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-16 21:02:35.142 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-16 21:02:35.146 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-16 21:02:35.148 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-16 21:02:35.184 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-16 21:02:35.185 [info] Sync done. Took 270ms

@@ -1,0 +1,11 @@
+2025-01-26 14:41:01.038 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 14:41:01.038 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 14:41:01.039 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 14:41:02.301 [info] Started local extension host with pid 15198.
+2025-01-26 14:41:03.660 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 14:41:03.770 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-01-26 14:41:03.775 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-01-26 14:41:08.213 [info] Settings Sync: Token updated for the account Jost221
+2025-01-26 14:41:08.235 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-26 14:41:08.882 [info] [perf] Render performance baseline is 180ms
+2025-01-26 14:41:09.284 [info] Settings Sync: Token updated for the account Jost221

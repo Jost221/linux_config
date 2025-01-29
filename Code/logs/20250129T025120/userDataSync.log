@@ -1,0 +1,21 @@
+2025-01-29 02:51:23.411 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-29 02:51:23.411 [info] Auto Sync is enabled.
+2025-01-29 02:51:23.411 [info] Auto Sync: Suspended until auth token is available.
+2025-01-29 02:51:26.167 [info] Auto Sync: Triggered by Interval
+2025-01-29 02:51:26.168 [info] Sync started.
+2025-01-29 02:51:27.504 [info] Settings: No changes found during synchronizing settings.
+2025-01-29 02:51:27.523 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-29 02:51:27.532 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-29 02:51:27.540 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-29 02:51:28.420 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,nps/lastSessionDate,nps/sessionCount,cpp.1.lastSessionDate,cpp.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount.
+2025-01-29 02:51:28.452 [info] GlobalState: Updated last synchronized ui state
+2025-01-29 02:51:28.671 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-29 02:51:28.675 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-29 02:51:28.679 [info] Syncing profile. Untitled
+2025-01-29 02:51:28.853 [info] Settings (Untitled): No changes found during synchronizing settings.
+2025-01-29 02:51:28.868 [info] Keybindings (Untitled): No changes found during synchronizing keybindings.
+2025-01-29 02:51:28.871 [info] Snippets (Untitled): No changes found during synchronizing snippets.
+2025-01-29 02:51:28.876 [info] Tasks (Untitled): No changes found during synchronizing tasks.
+2025-01-29 02:51:28.887 [info] GlobalState (Untitled): No changes found during synchronizing ui state.
+2025-01-29 02:51:28.918 [info] Extensions (Untitled): No changes found during synchronizing extensions.
+2025-01-29 02:51:28.921 [info] Sync done. Took 2760ms

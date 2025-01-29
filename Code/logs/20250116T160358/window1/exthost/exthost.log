@@ -1,0 +1,28 @@
+2025-01-16 16:04:02.019 [info] Extension host with pid 10214 started
+2025-01-16 16:04:02.019 [info] Skipping acquiring lock for /home/jost/.config/Code/User/workspaceStorage/90cd6ade2e199fa99d1437ba8d45d7e0.
+2025-01-16 16:04:02.228 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-16 16:04:02.326 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-16 16:04:02.497 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-16 16:04:02.522 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-16 16:04:02.670 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-16 16:04:02.843 [info] Eager extensions activated
+2025-01-16 16:04:02.953 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 16:04:02.963 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 16:08:59.629 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+2025-01-16 20:18:56.409 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2025-01-16 20:36:40.101 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-16 20:37:26.938 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-16 20:37:26.960 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-16 20:37:27.040 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-16 20:38:44.987 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 20:38:45.020 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 20:38:45.098 [info] ExtensionService#_doActivateExtension circlecodesolution.ccs-flutter-color, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 20:38:45.103 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 20:38:45.221 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: false, activationEvent: '*'
+2025-01-16 20:38:45.273 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: false, activationEvent: '*'
+2025-01-16 20:38:45.274 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 20:38:45.311 [info] ExtensionService#_doActivateExtension eww-yuck.yuck, startup: false, activationEvent: 'onLanguage:yuck'
+2025-01-16 20:38:45.312 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: false, activationEvent: '*'
+2025-01-16 20:38:45.418 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 21:03:43.797 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-16 21:03:43.891 [info] Extension host with pid 10214 exiting with code 0

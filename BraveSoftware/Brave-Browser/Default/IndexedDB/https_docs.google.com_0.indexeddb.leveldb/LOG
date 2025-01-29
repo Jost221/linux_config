@@ -1,0 +1,15 @@
+2025/01/24-13:07:23.981 ae4 Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/24-13:07:23.982 ae4 Recovering log #7
+2025/01/24-13:07:23.982 ae4 Reusing old log /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2025/01/24-13:19:02.930 ae5 Level-0 table #12: started
+2025/01/24-13:19:02.931 ae5 Level-0 table #12: 190 bytes OK
+2025/01/24-13:19:02.932 ae5 Delete type=0 #7
+2025/01/24-13:19:02.932 ae5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/24-13:19:02.932 ae5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 680 : 1
+2025/01/24-13:19:02.932 ae5 Compacting 1@1 + 1@2 files
+2025/01/24-13:19:02.933 ae5 Generated table #13@1: 206 keys, 3119 bytes
+2025/01/24-13:19:02.933 ae5 Compacted 1@1 + 1@2 files => 3119 bytes
+2025/01/24-13:19:02.934 ae5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/24-13:19:02.935 ae5 Delete type=2 #12
+2025/01/24-13:19:02.935 ae5 Delete type=2 #9
+2025/01/24-13:19:02.935 ae5 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 680 : 1 .. (end); will stop at (end)

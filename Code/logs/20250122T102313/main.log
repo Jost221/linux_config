@@ -1,0 +1,18 @@
+2025-01-22 10:23:13.378 [info] update#setState idle
+2025-01-22 10:23:43.310 [info] update#setState checking for updates
+2025-01-22 10:23:56.840 [error] [network] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/91fbdddc47bc9c09064bf7acf133d22631cbf083 - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:23:56.843 [error] update#isLatestVersion(): failed to check for updates
+2025-01-22 10:23:56.845 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-22 10:23:56.852 [error] [network] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/91fbdddc47bc9c09064bf7acf133d22631cbf083 - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:23:56.852 [error] update#isLatestVersion(): failed to check for updates
+2025-01-22 10:23:56.853 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-22 10:24:36.869 [error] [network] #3: https://update.code.visualstudio.com/api/update/linux-x64/stable/91fbdddc47bc9c09064bf7acf133d22631cbf083 - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-01-22 10:24:36.870 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117531)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-22 10:24:36.870 [info] update#setState idle
+2025-01-22 10:26:05.676 [info] Extension host with pid 30712 exited with code: 0, signal: unknown.

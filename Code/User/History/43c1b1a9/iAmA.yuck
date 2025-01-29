@@ -1,0 +1,283 @@
+(defpoll COL_WLAN :interval "1m" "~/.config/eww/scripts/wifi --COL")
+(defpoll ESSID_WLAN :interval "1m" "~/.config/eww/scripts/wifi --ESSID")
+(defpoll WLAN_ICON :interval "1m" "~/.config/eww/scripts/wifi --ICON")
+(defpoll volume :interval "0.01s" "pactl get-sink-volume @DEFAULT_SINK@ | awk '{print $5}' | sed 's/%//'")
+(defpoll vol-status :interval "100ms" "scripts/volume/getmuteicon")
+(defpoll mic :interval "0.01s" "pactl get-source-volume @DEFAULT_SOURCE@ | awk '{print $5}' | sed 's/%//'")
+(defpoll mic-status :interval "100ms" "scripts/mic/getmuteicon")
+(defpoll battery-value :interval "1s" "cat /sys/class/power_supply/BAT0/capacity")
+(defpoll battery-status :interval "1s" "scripts/bat-status")
+(defpoll battery-info :interval "1s" "upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep -E \"energy:|energy-full|energy-full-design|energy-rate|voltage:|time to full|capacity:|percentage:\" | column -t -s ':'")
+(defpoll ethernet-status :interval "1s" "scripts/wifi-status")
+(defpoll wifi-status :interval "1s" "nmcli -t -f DEVICE,TYPE,STATE dev | grep 'wifi:' | cut -d':' -f3)")
+
+(defvar cloce_all "eww close closer volume battery ethernet")
+
+
+(defwindow bar
+  :monitor 0
+  :stacking "fg"
+  :exclusive true
+  :geometry (geometry :x "0%"
+    :y "0%"
+    :width "100%"
+    :height "5px"
+  :anchor "top center")
+  
+  (bar)
+)
+
+(defwidget bar []
+  (centerbox :orientation "h"
+    (workspaces)
+    (center)
+    (widgets)
+  )
+)
+
+(defwidget workspaces []
+  (box :class "workspaces black"
+    :orientation "h"
+    :space-evenly true
+    :halign "start"
+    :spacing 1
+    (button :onclick "hyprctl dispatch workspace 1" 1)
+    (button :onclick "hyprctl dispatch workspace 2" 2)
+    (button :onclick "hyprctl dispatch workspace 3" 3)
+    (button :onclick "hyprctl dispatch workspace 4" 4)
+  )
+)
+
+(defwidget center []
+  (box :class "center"
+    :orientation "v"
+    :space-evenly true
+    :halign "start"
+    date
+    time
+  )
+)
+
+(defwidget widgets []
+  (box :class "sidestuff" :orientation "h" :space-evenly false :halign "end"
+    (audio-control-bar)
+    (main-widgets)    
+  )
+)
+
+(defwidget audio-control-bar []
+  (box :orientation "h" :spacing 10 :class "audio-control-box black spaces" :space-evenly false
+    (button
+      :onclick "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+      :onrightclick "eww open closer && eww open volume"
+      (image 
+        :path vol-status 
+        :image-height 24
+      )
+    )
+    (scale
+      :class "slider"
+      :value (volume as f64)
+      :min 0
+      :max 153
+      :height 5
+      :width 50
+      :onchange "pactl set-sink-volume @DEFAULT_SINK@ {}%"
+    )
+  )
+)
+
+(defpoll time :interval "1s"
+"date '+%H:%M:%S'")
+
+(defpoll date :interval "1s"
+"date '+%A %d %b %Y'")
+
+(defwindow volume
+  :monitor 0
+  :stacking "fg"
+  :exclusive true
+  :geometry (geometry :x "0%"
+    :y "0%"
+    :width "100px"
+    :height "50px"
+  :anchor "center center")
+  
+  (audio-control-menu)
+)
+
+(defwindow closer
+  :monitor 0
+  :geometry (geometry :width "100%" :height "100%")
+  :stacking "fg"
+  :focusable false
+  (closer)
+)
+
+(defwidget closer []
+  (eventbox :onclick cloce_all)
+)
+
+(defwidget exit []
+  (box :orientation "h" :spacing 10 :class "black" :space-evenly true
+    (button
+      :onclick cloce_all
+      :height 30
+      "Exit"
+    )
+  )
+)
+
+(defwidget audio-control-menu []
+  (centerbox :orientation "v" :class "center-widgets"
+    (audio-control-menu-volume)
+    (audio-control-menu-mic)
+    (exit)
+  )
+)
+
+(defwidget audio-control-menu-volume []
+  (box :orientation "h" :spacing 10 :class "audio-control-box black" :space-evenly false :height 50  
+  (button
+      :onclick "pactl set-sink-mute @DEFAULT_SINK@ toggle"
+      :width 60
+      (image 
+        :path vol-status 
+        :image-height 24
+      )
+    )
+    (scale
+      :class "slider"
+      :value volume
+      :min 0
+      :max 153
+      :height 5
+      :width 200
+      :onchange "pactl set-sink-volume @DEFAULT_SINK@ {}%"
+    )
+    (label 
+      :text  volume
+      :width 30
+    )
+    (label 
+      :text  "%"
+      :width 10
+    )
+  )
+)
+
+(defwidget audio-control-menu-mic []
+  (box :orientation "h" :spacing 10 :class "audio-control-box black" :space-evenly false :height 50  
+  (button
+      :onclick "pactl set-source-mute @DEFAULT_SOURCE@ toggle"
+      :width 60
+      mic-status
+    )
+    (scale
+      :class "slider"
+      :value mic
+      :min 0
+      :max 153
+      :height 5
+      :width 200
+      :onchange "pactl set-source-volume @DEFAULT_SOURCE@ {}%"
+    )
+    (label 
+      :text  mic
+      :width 30
+    )
+    (label 
+      :text  "%"
+      :width 10
+    )
+  )
+)
+
+(defwidget main-widgets []
+  (box :orientation "h" :class "black spaces"
+    (battery-widgets)
+    (wifi-widgets)
+  )
+)
+
+(defwidget battery-widgets []
+  (box :orientation "h" :class "bat spaces circle" :space-evenly true
+    (button
+      :onclick "eww open closer && eww open battery"
+      (circular-progress
+          :value battery-value
+          :class {battery-status == true ?  "batbar-charging" : "batbar-uncharging"}
+          :thickness 3
+          (label 
+            :text {(round(battery-value, 0))})
+      )
+    )
+  )
+)
+
+(defwindow battery []
+  :monitor 0
+  :stacking "fg"
+  :exclusive true
+  :geometry (geometry :x "0%"
+    :y "0%"
+    :width "100px"
+    :height "50px"
+  :anchor "center center")
+  (battery-text)
+)
+
+(defwidget battery-text []
+  (box :orientation "h" :spacing 10 :class "center-widgets audio-control-box black" :space-evenly false :height 50
+    (label
+      :text battery-info
+      :width 250
+    )
+  )
+)
+
+(defwidget wifi-widgets []
+  (box :orientation "h" :spacing 10 :class "bat spaces circle" :space-evenly false
+    (button
+      :onclick "eww open closer && eww open ethernet" 
+      (image 
+        :class "img"
+        :path ethernet-status 
+        :image-height 24
+      )
+    )
+  )
+)
+
+(defwindow ethernet
+  :monitor 0
+  :stacking "fg"
+  :exclusive true
+  :geometry (geometry :x "0%"
+    :y "0%"
+    :width "200px"
+    :height "50px"
+  :anchor "center center")
+  
+  (ethernet-menu)
+)
+
+(defwidget ethernet-menu []
+  (box :orientation "h" :spacing 10 :class "center-widgets audio-control-box black" :space-evenly false
+    (top-ethernet-control)
+  )
+)
+
+(defwidget top-ethernet-control []
+  (box :orientation "v" :spacing 10 :class "black" :space-evenly false
+    (wifi-zone)
+  )
+)
+
+(defwidget wifi-zone []
+  (box :orientation "h" :spacing 10 :class "black" :space-evenly false
+    (label
+      :text "onon"
+    )
+  )
+)

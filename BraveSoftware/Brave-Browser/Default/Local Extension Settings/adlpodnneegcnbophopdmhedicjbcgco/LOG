@@ -1,0 +1,9 @@
+2025/01/29-02:54:58.851 12be Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/adlpodnneegcnbophopdmhedicjbcgco/MANIFEST-000001
+2025/01/29-02:54:58.852 12be Recovering log #512
+2025/01/29-02:54:58.852 12be Reusing old log /home/jost/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/adlpodnneegcnbophopdmhedicjbcgco/000512.log 
+2025/01/29-02:57:59.885 12bf Compacting 1@0 + 1@1 files
+2025/01/29-02:57:59.923 12bf Generated table #515@0: 26 keys, 1136794 bytes
+2025/01/29-02:57:59.923 12bf Compacted 1@0 + 1@1 files => 1136794 bytes
+2025/01/29-02:57:59.925 12bf compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/01/29-02:57:59.925 12bf Delete type=2 #513
+2025/01/29-02:57:59.925 12bf Delete type=2 #510

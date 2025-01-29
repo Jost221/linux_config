@@ -1,0 +1,6 @@
+2025/01/22-02:13:18.288 408c Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/22-02:13:18.288 408c Recovering log #29
+2025/01/22-02:13:18.296 408c Reusing old log /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000029.log 
+2025/01/22-02:15:55.095 4064 Level-0 table #34: started
+2025/01/22-02:15:55.164 4064 Level-0 table #34: 1740117 bytes OK
+2025/01/22-02:15:55.167 4064 Delete type=0 #29

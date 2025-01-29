@@ -1,0 +1,28 @@
+2025-01-26 04:32:37.084 [info] Getting Manifest... pkief.material-icon-theme
+2025-01-26 04:32:37.100 [info] Getting Manifest... rust-lang.rust-analyzer
+2025-01-26 04:32:37.633 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/jost/.vscode/extensions/extensions.json","path":"/home/jost/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-26 04:32:37.724 [info] Installing extension: rust-lang.rust-analyzer {"installPreReleaseVersion":true,"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/jost/.vscode/extensions/extensions.json","path":"/home/jost/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-26 04:32:38.805 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 15ms.
+2025-01-26 04:32:40.349 [info] Extension signature verification result for rust-lang.rust-analyzer: UnknownError. Executed: true. Duration: 10ms.
+2025-01-26 04:32:40.871 [info] Extracted extension to file:///home/jost/.vscode/extensions/pkief.material-icon-theme-5.19.0: pkief.material-icon-theme
+2025-01-26 04:32:40.966 [info] Renamed to /home/jost/.vscode/extensions/pkief.material-icon-theme-5.19.0
+2025-01-26 04:32:41.055 [info] Marked extension as uninstalled pkief.material-icon-theme-5.18.0
+2025-01-26 04:32:41.101 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/jost/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/jost/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 04:32:41.114 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/jost/.vscode/extensions/extensions.json
+2025-01-26 04:32:41.945 [info] Extracted extension to file:///home/jost/.vscode/extensions/rust-lang.rust-analyzer-0.4.2280-linux-x64: rust-lang.rust-analyzer
+2025-01-26 04:32:41.958 [info] Renamed to /home/jost/.vscode/extensions/rust-lang.rust-analyzer-0.4.2280-linux-x64
+2025-01-26 04:32:42.015 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.4.2279-linux-x64
+2025-01-26 04:32:42.038 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/jost/.vscode/extensions/extensions.json
+2025-01-26 04:32:42.051 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/jost/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/jost/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

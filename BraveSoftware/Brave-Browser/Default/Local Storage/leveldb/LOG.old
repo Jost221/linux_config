@@ -1,0 +1,5 @@
+2025/01/29-02:45:43.138 4 Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/01/29-02:45:43.148 4 Recovering log #639
+2025/01/29-02:45:43.153 4 Level-0 table #642: started
+2025/01/29-02:45:43.161 4 Level-0 table #642: 23113 bytes OK
+2025/01/29-02:45:43.167 4 Delete type=0 #639

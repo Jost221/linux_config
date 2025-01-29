@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "[python]": {
+        "editor.rulers": [80,120],
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": {
+        "*.db": "sqlite-viewer.option",
+        "*.png": "imagePreview.previewEditor"
+    },
+    "errorLens.excludeBySource": [
+        "rust-analyzer(syntax-error)"
+    ],
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+}

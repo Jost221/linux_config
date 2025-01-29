@@ -1,0 +1,101 @@
+*{
+  all: unset;
+}
+
+// Global Styles
+.bar {
+  background-color: rgba(109, 69, 0, 0.2);
+  color: #fdfdfd;
+  padding: 5px;
+}
+
+
+button:hover {
+  background-color: rgba(93, 211, 201, 1);
+}
+
+button{
+  border-radius: 10px;
+  margin: 3px;
+} 
+
+.black {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  padding: 0px 15px;
+}
+
+.center{
+  border-radius: 10px;
+  padding:  0px 20px;
+}
+
+.audio-control-box button {
+  font-size: 16px;
+  color: white;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  padding: 0 10px;
+}
+
+.audio-control-box scale {
+  all: unset;
+  transition: 0.5s;
+}
+
+.audio-control-box scale:hover {
+  min-width: 100px;
+}
+
+.audio-control-box scale trough highlight {  
+  background-color: rgba(93, 211, 201, 1);
+  color: #000000;
+  border-radius: 10px;
+}
+
+.audio-control-box scale trough {
+  background-color: #4e4e4e;
+  border-radius: 50px;
+  min-height: 5px;
+}
+
+.workspaces button {
+  border-radius: 10px;
+  border-color: #fdfdfd;
+  margin: 5px 3px;
+  padding: 3px 10px;
+  transition: background-color 0.3s;
+}
+
+.workspaces button.active {
+  background-color: rgba(93, 211, 201, 0.7);
+}
+
+
+.center-widgets{
+  background-color: #363636;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.center-widgets button{
+  border-radius: 10px;
+}
+
+.spaces{
+  margin-left: 3px;
+}
+
+.circle label{
+  font-size: 0.8em;
+  padding-bottom: 4px;
+  margin: 8px 5px 5px 6px;
+}
+
+.batbar-charging{
+  color: #00fa68;
+}
+
+.bat button{
+  padding: 3px;
+}

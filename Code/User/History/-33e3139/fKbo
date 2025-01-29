@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Проверка статуса подключения
+wifi_status=$(nmcli -t -f DEVICE,TYPE,STATE dev | grep 'wifi:' | cut -d':' -f3)
+ethernet_status=$(nmcli -t -f DEVICE,TYPE,STATE dev | grep 'ethernet' | cut -d':' -f3)
+internet_check=$(ping -c 1 8.8.8.8 > /dev/null 2>&1 && echo "online" || echo "offline")
+
+if [[ "$ethernet_status" == "connected" ]]; then
+    if [[ "$internet_check" == "offline" ]]; then
+        echo "./image/no internet.png"
+    else
+        echo "🌐"
+    fi
+elif [[ "$wifi_status" == "connected" ]]; then
+    if [[ "$internet_check" == "offline" ]]; then
+        echo "📶⚠️"
+    else
+        echo "./image/wifi.png"
+    fi
+else
+    echo "❌"
+fi

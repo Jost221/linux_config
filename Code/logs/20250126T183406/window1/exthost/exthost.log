@@ -1,0 +1,26 @@
+2025-01-26 18:34:09.671 [info] Extension host with pid 20081 started
+2025-01-26 18:34:09.671 [info] Skipping acquiring lock for /home/jost/.config/Code/User/workspaceStorage/90cd6ade2e199fa99d1437ba8d45d7e0.
+2025-01-26 18:34:10.233 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-26 18:34:10.302 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-26 18:34:10.325 [info] ExtensionService#_doActivateExtension eww-yuck.yuck, startup: false, activationEvent: 'onLanguage:yuck'
+2025-01-26 18:34:10.538 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-26 18:34:10.547 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-01-26 18:34:10.549 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-01-26 18:34:10.615 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2025-01-26 18:34:10.917 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-26 18:34:11.178 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-26 18:34:11.375 [info] Eager extensions activated
+2025-01-26 18:34:11.536 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.540 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.575 [info] ExtensionService#_doActivateExtension circlecodesolution.ccs-flutter-color, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.578 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.642 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.662 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.695 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:11.707 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-01-26 18:34:12.328 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-26 18:34:13.777 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-26 18:34:13.835 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-26 18:34:14.046 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 00:25:24.421 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-27 00:25:24.509 [info] Extension host with pid 20081 exiting with code 0

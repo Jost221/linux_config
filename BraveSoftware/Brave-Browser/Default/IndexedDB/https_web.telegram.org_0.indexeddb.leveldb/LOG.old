@@ -1,0 +1,12 @@
+2025/01/20-14:48:06.718 ae9 Reusing MANIFEST /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/20-14:48:06.718 ae9 Recovering log #123
+2025/01/20-14:48:06.728 ae9 Reusing old log /home/jost/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000123.log 
+2025/01/20-15:08:21.849 ae9 Level-0 table #129: started
+2025/01/20-15:08:21.890 ae9 Level-0 table #129: 1647767 bytes OK
+2025/01/20-15:08:21.893 ae9 Delete type=0 #123
+2025/01/20-15:11:08.017 ae9 Compacting 1@1 + 1@2 files
+2025/01/20-15:11:08.059 ae9 Generated table #130@1: 2536 keys, 706342 bytes
+2025/01/20-15:11:08.059 ae9 Compacted 1@1 + 1@2 files => 706342 bytes
+2025/01/20-15:11:08.060 ae9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/20-15:11:08.061 ae9 Delete type=2 #126
+2025/01/20-15:11:08.061 ae9 Delete type=2 #129
